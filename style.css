@@ -25,3 +25,12 @@ h3 {
     letter-spacing: 0.01em;
 
 }
+
+p{
+    font: 500 2.5em 'Raleway', sans-serif;
+    color: rgba(.5,0,0,.5);
+    text-align: right;
+    text-transform: uppercase;
+    letter-spacing: .3em;
+    width: 80%;
+}
